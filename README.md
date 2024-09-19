@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Motunrayor/Motunrayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my space, My name is Motunrayo Fatumo, I’m a detail-oriented and results-driven frontend engineer with over four years of experience building solutions through developing user-friendly, responsive, and accessible websites and web applications using modern frontend technologies and frameworks. 
 
-Here are some ideas to get you started:
+I'm proficient in JavaScript(Reactjs and Vuejs), typescript, CSS, SASS, HTML, and other front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+
+- 🔭 I’m currently working on some projects in Enyata software company using reactjs and vuejs
+- 🌱 I’m currently learning React Native
+- 🌱 I’m also looking to learn backend development
+- 💬 Ask me about anything tech 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
 -->
+
