@@ -12,5 +12,5 @@ I'm proficient in JavaScript(Reactjs and Vuejs), typescript, CSS, SASS, HTML, an
 - 💬 Ask me about anything tech 
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
--->
+
 
