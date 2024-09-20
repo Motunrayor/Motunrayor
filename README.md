@@ -2,7 +2,7 @@
 
 Welcome to my space, My name is Motunrayo Fatumo, I’m a detail-oriented and results-driven frontend engineer with over four years of experience building solutions through developing user-friendly, responsive, and accessible websites and web applications using modern frontend technologies and frameworks. 
 
-I'm proficient in JavaScript(Reactjs and Vuejs), typescript, React query, Redux, CSS, SASS, HTML, and other front-end technologies.
+I'm proficient in JavaScript(Reactjs and Vuejs), typescript, React query, Redux, CSS, SASS, Tailwind CSS, HTML, and other front-end technologies.
 
 
 
